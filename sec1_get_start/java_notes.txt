@@ -1,0 +1,7 @@
+To interpreter Java class files:
+
+in Terminal:
+ $ javac filename.java
+  - This command creates a new .class file with the same filename but with .class extension.
+ $ java filename.class
+  - The java command renders the .class file.

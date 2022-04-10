@@ -1,0 +1,8 @@
+What is Java?
+  - Java is a programming language, found by Sun Microsystems.
+  - Java was released in 1995, by James Gosleng.
+  - Java was first introduced as a plugin/App for web browsers serving Adobe Flash.
+  - Java is one of the top 3 programming languages.
+  - Java is an object-oriented programming language (OOP).
+  
+
