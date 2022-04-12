@@ -1,0 +1,48 @@
+Section 2: Java classes, objects, and methods
+
+    OOP
+     - Java was designed to make OOP easier.
+     - OOP is a way of programming where we try to model the real world, or concepts to probems
+       we are trying to write software for.
+
+     - Classes
+      - Classes are blueprints for creating objects.
+      - Classes naming convention:
+       - A class name should be in the CamelCase format
+       - A class name should not be start with a number or an _ (underscore)
+       - A class name should be single and not plural.
+
+      public class ClassName {
+        
+      }
+
+    // Inline comment in Java
+    /* */ Multi-line comment in Java 
+
+    Variables
+    - Variables hold values.
+    - We can use variable to store text and numbers as values.
+    - Java is a statically-typed language. This means we need to specify data type besides
+      the variable it self.
+
+      private String firstName;
+        Here, we declaring a variable called firstName.
+      
+
+      private String firstName = "Jack";
+      Here, we declared a variable firstName, and initialized this variable with the values
+      "Jack".
+    
+    Java Data types - Primitives
+
+    String
+     - Stores letters.
+    Int
+     - Stores numbers.
+    
+    long
+     - Stores larger numbers comparing to int
+
+
+
+
